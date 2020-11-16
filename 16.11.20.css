@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.container {
+    height: 600px;
+    width: 1200px;
+    background: #dedede;
+    margin: calc(50vh - 300px) auto;
+    border-radius: 20px;
+}
